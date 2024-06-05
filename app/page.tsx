@@ -1,6 +1,7 @@
 /** https://www.youtube.com/watch?v=r895rFUbGtE 
  * Auth - clerk nextjs
  * background color : https://hypercolor.dev/
+ * Neon for data base : https://neon.tech/
 */
 import { Button } from "@/components/ui/button";
 import { UserButton, useAuth } from "@clerk/nextjs";
